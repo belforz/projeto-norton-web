@@ -1,0 +1,3 @@
+[submodule "v-disk-interface"]
+	path = v-disk-interface
+	url = https://github.com/belforz/v-disk-interface.git
